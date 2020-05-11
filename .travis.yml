@@ -1,4 +1,15 @@
-lang: ruby
-rvm: 2.1
+language: ruby
+rvm:
+- 2.6.3
 
-script: bundle exec rake
+branches:
+  only:
+  - travis
+  except:
+  - master
+
+script:
+  - bundle exec rspec
+
+notifications:
+  email: false
