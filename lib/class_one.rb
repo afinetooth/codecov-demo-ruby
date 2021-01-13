@@ -5,6 +5,7 @@ class ClassOne
   end
 
   def self.uncovered
+    # Insignificant comment to add a line to file
     "uncovered"
   end
 
