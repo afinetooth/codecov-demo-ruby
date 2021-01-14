@@ -12,3 +12,7 @@
 bundle install
 bundle exec rspec
 ```
+
+# Coverage
+
+[![codecov](https://codecov.io/gh/afinetooth/codecov-demo-ruby/branch/travis/graph/badge.svg?token=VXJ4NXBQC5)](https://codecov.io/gh/afinetooth/codecov-demo-ruby)
