@@ -12,7 +12,3 @@
 bundle install
 bundle exec rspec
 ```
-
-# Updates
-
-- Insignificant update to trigger a build.
