@@ -8,4 +8,8 @@ class ClassOne
     "uncovered"
   end
 
+  def self.another_method
+    "another method"
+  end
+
 end
